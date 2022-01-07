@@ -4,7 +4,7 @@ margin: 0;
 padding: 0;
 }
     
-#header {
+.header {
 height: 200px;    
 background: url('image/footer.jpg') repeat-x;
 }
